@@ -61,7 +61,7 @@
 3. 输入nrm ls查看信息
 4. 转换到nrm use taobao镜像,以后使用nrm进行安装
 
-##webpack中的配置
+## webpack中的配置
 
 1. 先在全局中配置npm install webpack -g
 2. 在项目中将npm 初始化 npm  init
@@ -70,6 +70,6 @@
 5. 配置热刷新,需要安装全局的npm install webpack-dev-server -g
 6. 在webpack2.0阶段,我们需要在测试文件中配置信息,entry对象中
 
-###webpack中的常用加载器的介绍loader是webpack准备的一些处理工具
+### webpack中的常用加载器的介绍loader是webpack准备的一些处理工具
 
 - 将我们的jsx和es6转换成es5 
