@@ -12,6 +12,7 @@
 ## gulp使用
 
 ### 基本使用
+
 ```
 1. 全局安装gulp
 		npm install -g gulp
@@ -33,7 +34,7 @@
 		gulp 
 ```
 
-##node中安装双版本的信息,使用nvm方法
+## node中安装双版本的信息,使用nvm方法
 
 ```
 1. 一些指令:nvm arch 查看或者设置平台类型
@@ -43,7 +44,8 @@
 5. nvm version 查看nvm版本号
 ```
 
-##多版本安装放式
+## 多版本安装放式
+
 ```
 1. 卸载已有的node.js
 2. 下载nvm
@@ -53,7 +55,8 @@
 6. path中添加%NVM_HOME%;5NVM_SYMLINK%
 ```
 
-##nrm进行淘宝镜像
+## nrm进行淘宝镜像
+
 1. 先全局安装npm install nrm -g
 3. 输入nrm ls查看信息
 4. 转换到nrm use taobao镜像,以后使用nrm进行安装
